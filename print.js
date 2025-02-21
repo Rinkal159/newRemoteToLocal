@@ -33,3 +33,10 @@ arr.forEach((value, index, array) => {
     array[index] = value * 2;
 })
 console.log(arr);
+
+
+// newbranch
+
+const r = 12;
+
+console.log(r);
