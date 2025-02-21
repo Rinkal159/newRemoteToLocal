@@ -12,3 +12,14 @@ if (1 && 0) {
     console.log(`false`);
     
 }
+
+// new branch
+
+const a = 12;
+const b = 13;
+
+function printSum(x, y) {
+    return x+y;
+}
+
+console.log(`sum is : ${a, b}`);
